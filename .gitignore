@@ -1,0 +1,15 @@
+# Environment and secrets (never commit)
+.env
+.env.*
+*.pem
+*.key
+
+# Vercel local state
+.vercel/
+
+# OS / editor artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
